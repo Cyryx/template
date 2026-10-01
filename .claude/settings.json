@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "ReadNotifications",
+      "mcp__Claude__ha_search",
+      "mcp__Claude__ha_get_logs",
+      "ToolSearch",
+      "mcp__Claude__ha_get_state",
+      "mcp__Claude__ha_get_skill_guide",
+      "mcp__Claude__ha_get_system_health",
+      "mcp__Claude__ha_get_app",
+      "mcp__Claude_Code_Remote__list_triggers"
+    ]
+  }
+}
